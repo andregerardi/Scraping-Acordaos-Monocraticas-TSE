@@ -1,2 +1,5 @@
-# Scraping_Fake_News_Decis-es_Monocr-ticas_TSE
-Modelo para raspar Acórdãos com as decisões monocráticas de ministros do TSE sobre Fake News. 
+# Código para Raspar Decisoes Monocraticas do TSE
+
+O modelo extrai os textos dos Acórdãos com as decisões monocráticas de ministros do TSE sobre Fake News.
+
+
